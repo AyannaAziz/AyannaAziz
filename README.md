@@ -3,13 +3,14 @@
 Ayanna here. Some of you may know me by Alma, but I guarantee you Alma & Ayanna are indeed the same person, for the most part. 
 I am currently working as a software engineer and I have an interest in the entire digital economy 🤓 but mainly 
 
-👉<li> 🏾 FullStack Dev </li>
+<ol>
+<li> 👉🏾 FullStack Dev </li>
 <li> 👉🏾 Cyber security and secure coding practices </li>
-👉🏾 Salesforce, because its cool. And useful.
-👉🏾 Blockchain technology
-👉🏾 Cats. Which should have gone first.
+<li> 👉🏾 Salesforce, because its cool. And useful. </li>
+<li> 👉🏾 Cats. Which should have gone first. </li>
+</ol>
 
-- 🔭 I’m currently working on ... Learning saleforce basics, admin certification, my personal website
+-  🔭 I’m currently working on ... Learning saleforce basics, admin certification, my personal website
 - 🌱 I’m currently learning ... Javascript, React
 - 👯 I’m looking to collaborate on ... Anything cool
 - 🤔 I’m looking for help with ... The topics previously listed
